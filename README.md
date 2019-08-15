@@ -14,4 +14,4 @@ Usage of the pipeline
 ```
 ## Work under progress
 
-## please do no re-distribute
+## please do not re-distribute or make a copy
