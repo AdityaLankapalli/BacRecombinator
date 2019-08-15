@@ -1,6 +1,7 @@
 # BacRecombinator
 Detect recombination patterns in bacterial genomes
 
+## unpublished
 
 Usage of the pipeline
 ```
@@ -12,3 +13,5 @@ Usage of the pipeline
 ./main.py -h 
 ```
 ## Work under progress
+
+## please do no re-distribute
