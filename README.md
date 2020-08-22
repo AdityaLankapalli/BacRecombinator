@@ -1,4 +1,4 @@
-# BacRecombinator
+# Ttrip-BAC
 Detect recombination patterns in bacterial genomes
 
 ## unpublished
